@@ -1,6 +1,10 @@
 # User specified
 data
 kaggle
+.RData
+.Rhistory
+.Rproj.user
+*.Rproj
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
