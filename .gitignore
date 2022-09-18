@@ -1,6 +1,7 @@
 # User specified
 data
 kaggle
+logs
 .RData
 .Rhistory
 .Rproj.user
